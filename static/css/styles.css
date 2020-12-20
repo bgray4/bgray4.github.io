@@ -14,7 +14,8 @@
 	padding: 30px;
 	text-align: center;
 	background: lavenderblush;
-
+	color: white;
+	font-size: 20px;
 }
 
 .row:after {
