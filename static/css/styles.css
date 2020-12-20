@@ -25,6 +25,12 @@
 	font-size: 20px;
 }
 
+.navigation {
+	overflow: hidden;
+	background-color: black;
+	top: 0;
+}
+
 .row:after {
 	content: "";
 	display: table;
