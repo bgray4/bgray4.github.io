@@ -3,13 +3,13 @@
 	float: left;
 	width: 48%;
 	height: 300px;
-	margin: 50px;
+	margin: 10px;
 }
 .column2 {
 	float: right;
 	width: 48%;
 	height: 300px;
-	margin: 50px;
+	margin: 10px;
 }
 
 .header {
@@ -29,7 +29,7 @@
 
 .navigation {
 	overflow: hidden;
-	background-color: white;
+	background-color: black;
 	color: aliceblue;
 	top: 0;
 }
