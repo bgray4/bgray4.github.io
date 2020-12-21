@@ -23,18 +23,12 @@ body {
 	width: 40%;
 	height: 300px;
 	padding: 10px;
-	border-color: black;
-	border-style: dotted;
-	border: 5px;
 }
 
 .column3 {
 	float: left;
 	width: 30%;
 	height: auto;
-	border: 5px;
-	border-style: dotted;
-	border-color: black;
 	background-color: bisque;
 }
 .column4 {
