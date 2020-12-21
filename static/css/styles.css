@@ -1,4 +1,8 @@
 
+.a {
+	text-decoration: none;
+}
+
 .column1 {
 	float: left;
 	width: 48%;
@@ -25,8 +29,12 @@
 	font-size: 20px;
 }
 
-.navigation {
+.li {
+	list-style-type: none;
+}
 
+.nav {
+	width: 100vw;
 }
 
 .row:after {
