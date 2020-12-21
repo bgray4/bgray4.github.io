@@ -29,6 +29,7 @@ body {
 	float: left;
 	width: 20%;
 	height: 500px;
+	border: 10px;
 	background-color: bisque;
 }
 .column4 {
