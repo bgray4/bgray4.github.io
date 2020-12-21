@@ -3,6 +3,11 @@
 	text-decoration: none;
 }
 
+a:hover{
+	background-color: aquamarine;
+}
+
+
 body {
 	margin: 0;
 }
