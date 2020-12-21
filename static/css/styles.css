@@ -30,6 +30,7 @@ body {
 	width: 30%;
 	height: auto;
 	border: 5px;
+	border-style: dotted;
 	border-color: black;
 	background-color: bisque;
 }
