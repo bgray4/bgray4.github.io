@@ -3,6 +3,10 @@
 	text-decoration: none;
 }
 
+body {
+	margin: 0;
+}
+
 .column1 {
 	float: left;
 	width: 48%;
