@@ -43,3 +43,8 @@
 	display: table;
 	clear: both;
 }
+
+.ul{
+	margin: 0;
+	padding: 0;
+}
