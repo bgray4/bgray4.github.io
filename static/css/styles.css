@@ -28,7 +28,7 @@ body {
 .column3 {
 	float: left;
 	width: 20%;
-	height: 100px;
+	height: auto;
 	background-color: bisque;
 }
 .column4 {
