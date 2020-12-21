@@ -25,6 +25,19 @@ body {
 	padding: 10px;
 }
 
+.column3 {
+	float: left;
+	width: 20%;
+	height: auto;
+	background-color: bisque;
+}
+.column4 {
+	float: left;
+	width: 70%;
+	height: auto;
+	background-color: darkgray;
+}
+
 .header {
 	padding: 20px;
 	text-align: center;
