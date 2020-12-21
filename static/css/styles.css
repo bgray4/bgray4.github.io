@@ -24,6 +24,8 @@ body {
 	height: 300px;
 	padding: 10px;
 	border-color: black;
+	border-style: dotted;
+	border: 5px;
 }
 
 .column3 {
