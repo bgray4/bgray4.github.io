@@ -27,9 +27,10 @@ body {
 
 .column3 {
 	float: left;
-	width: 20%;
+	width: 30%;
 	height: auto;
 	border: 10px;
+	border-color: black;
 	background-color: bisque;
 }
 .column4 {
