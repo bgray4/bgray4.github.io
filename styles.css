@@ -30,8 +30,7 @@ body {
 	width: 40%;
 	height: auto;
 	background-color: white;
-	border-left: 1px solid #000000;
-	border-right: 1px solid #000000;
+	border: 5px solid #000000;
 	padding: 10px;
 	
 }
