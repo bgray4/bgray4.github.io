@@ -30,6 +30,10 @@ body {
 	width: 30%;
 	height: auto;
 	background-color: bisque;
+	border: 10px;
+	border-color: black;
+	padding: 10px;
+	
 }
 .column4 {
 	float: left;
