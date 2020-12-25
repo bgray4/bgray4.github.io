@@ -34,7 +34,7 @@ body {
 	
 }
 .column4 {
-	float: top;
+	float: left;
 	width: 50%;
 	height: auto;
 	background-color: darkgray;
