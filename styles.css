@@ -34,9 +34,10 @@ body {
 	
 }
 .column4 {
-	float: left;
+	float: top;
 	width: 50%;
 	background-color: darkgray;
+	border: 5px solid white;
 }
 
 .header {
