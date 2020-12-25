@@ -64,6 +64,7 @@ html {
 
 #box8 {
 	flex-grow: 1;
+	align-items: flex-start;
 	border: solid 1px black
 }
 .column1 {
