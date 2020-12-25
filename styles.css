@@ -36,6 +36,7 @@ body {
 .column4 {
 	float: top;
 	width: 50%;
+	height: auto;
 	background-color: darkgray;
 	border: 5px solid white;
 }
