@@ -45,7 +45,7 @@ html {
 }
 
 #box4 {
-	flex-grow: 2;
+	flex-grow: 3;
 	border: solid 1px orange;
 }
 
